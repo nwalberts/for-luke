@@ -1,0 +1,14 @@
+{
+  "travelAttractions": [
+    {
+      "id": 1,
+      "name": "Sagrada Família",
+      "location": "Barcelona, Spain"
+    },
+    {
+      "id": 2,
+      "name": "Statue of Liberty",
+      "location": "New York, NY"
+    }
+  ]
+}
